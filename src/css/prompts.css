@@ -1,0 +1,26 @@
+
+p{
+	margin: 0;
+}
+
+#orPrompt{
+	width: 100px;
+	height: 200px;
+	border: 1px solid black;
+	background-color: white;
+	padding: 8px;
+	position: fixed;
+	display: block;
+}
+
+#gotIt{
+	border-radius: 10px 10px 10px;
+	background-color: gray;
+	padding: 3px;
+	text-align: center;
+	margin-top: 8px;
+}
+
+#gotIt:hover{
+	cursor: pointer;
+}
